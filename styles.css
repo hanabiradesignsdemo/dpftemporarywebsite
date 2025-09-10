@@ -1,0 +1,29 @@
+/* styles.css */
+/* Add your custom styles below */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000;
+    
+    overflow: hidden;
+}
+
+video{
+    margin-top: 5%;
+    margin:0; display:flex; justify-content:center; align-items:center; height:100vh;
+    width: 100%;
+}
+header {
+  position: fixed;         /* stays relative to screen */
+  top: 5%;
+  left: 50%;
+  transform: translateX(-50%); /* perfect centering */
+}
+
+header img {
+  max-width: 10vw; /* adjust size if needed */
+  height: auto;
+}
+
