@@ -23,7 +23,7 @@ header {
 }
 
 header img {
-  max-width: 10vw; /* adjust size if needed */
-  height: auto;
+  height: 5vh; /* adjust size if needed */
+  width: auto;
 }
 
